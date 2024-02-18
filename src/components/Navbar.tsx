@@ -8,7 +8,7 @@ function Navbar() {
     <>
       <nav className="navbar navbar-expand-lg" data-bs-theme="dark">
         <div className="container-fluid">
-          <a className="navbar-brand" href="/Home">
+          <a className="navbar-brand" href="/portfolio-website/Home">
             <h2 className="text-size-300">Seweryn Kustosik</h2>
           </a>
           <button
