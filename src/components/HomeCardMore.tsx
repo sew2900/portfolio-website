@@ -14,7 +14,7 @@ function HomeCardMore() {
         <p>Here you can find more information about me.</p>
       </div>
       <div className="full-width align-right">
-        <CustomLink href={"/More"}>
+        <CustomLink href={"/portfolio-website/More"}>
           <p className="btn btn-second-accent margin-right-20">
             <FontAwesomeIcon icon={faArrowRightLong} />
           </p>

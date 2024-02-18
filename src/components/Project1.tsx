@@ -42,7 +42,7 @@ function Project1() {
           configuration, setting up hosting (server, static site, database)
         </p>
         <div className="margin-top-16 full-width align-right">
-          <CustomLink href={"/ProjectDetails1"}>
+          <CustomLink href={"/portfolio-website/ProjectDetails1"}>
             <p className="btn btn-main-accent">details</p>
           </CustomLink>
         </div>

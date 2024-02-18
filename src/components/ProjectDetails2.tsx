@@ -34,7 +34,7 @@ function ProjectDetails2() {
       </div>
       <h3 className="accent-color">E-Commerce app</h3>
       <div className="margin-top-16 full-width align-right">
-        <CustomLink href={"/Projects"}>
+        <CustomLink href={"/portfolio-website/Projects"}>
           <p className="btn btn-main-accent">
             <FontAwesomeIcon icon={faArrowLeftLong} />
           </p>

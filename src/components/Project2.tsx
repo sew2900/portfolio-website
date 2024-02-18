@@ -40,7 +40,7 @@ function Project2() {
           certificate, Angular frontend
         </p>
         <div className="margin-top-16 full-width align-right">
-          <CustomLink href={"/ProjectDetails2"}>
+          <CustomLink href={"/portfolio-website/ProjectDetails2"}>
             <p className="btn btn-main-accent">details</p>
           </CustomLink>
         </div>

@@ -14,7 +14,7 @@ function HomeCardQualifications() {
         <p>Check my commercial experience, certificates, courses list.</p>
       </div>
       <div className="full-width align-right">
-        <CustomLink href={"/Qualifications"}>
+        <CustomLink href={"/portfolio-website/Qualifications"}>
           <p className="btn btn-second-accent margin-right-20">
             <FontAwesomeIcon icon={faArrowRightLong} />
           </p>

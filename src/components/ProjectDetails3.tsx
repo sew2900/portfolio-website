@@ -19,7 +19,7 @@ function ProjectDetails3() {
       </div>
       <h3 className="accent-color">Old portfolio website</h3>
       <div className="margin-top-16 full-width align-right">
-        <CustomLink href={"/Projects"}>
+        <CustomLink href={"/portfolio-website/Projects"}>
           <p className="btn btn-main-accent">
             <FontAwesomeIcon icon={faArrowLeftLong} />
           </p>

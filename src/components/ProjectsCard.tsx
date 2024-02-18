@@ -17,14 +17,14 @@ function ProjectsCard() {
               projects click here
             </p>
             <div className="full-width align-right  margin-top-16">
-              <CustomLink href={"/Projects"}>
+              <CustomLink href={"/portfolio-website/Projects"}>
                 <p className="btn btn-main-accent">projects</p>
               </CustomLink>
             </div>
           </div>
         </div>
         <div className="homecards-image flex-projects-home-item">
-          <CustomLink href={"/Projects"}>
+          <CustomLink href={"/portfolio-website/Projects"}>
             <img src="home.png" alt="" />
           </CustomLink>
         </div>

@@ -18,7 +18,7 @@ function Project3() {
         <h3>Old portfolio website</h3>
         <p>Previous portfolio website with video presentation and code</p>
         <div className="margin-top-16 full-width align-right">
-          <CustomLink href={"/ProjectDetails3"}>
+          <CustomLink href={"/portfolio-website/ProjectDetails3"}>
             <p className="btn btn-main-accent">details</p>
           </CustomLink>
         </div>

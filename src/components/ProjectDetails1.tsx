@@ -35,7 +35,7 @@ function ProjectDetails1() {
       <h3 className="accent-color">Boat reservation service</h3>
 
       <div className="margin-top-16 full-width align-right">
-        <CustomLink href={"/Projects"}>
+        <CustomLink href={"/portfolio-website/Projects"}>
           <p className="btn btn-main-accent">
             <FontAwesomeIcon icon={faArrowLeftLong} />
           </p>

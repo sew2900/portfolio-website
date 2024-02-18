@@ -13,25 +13,25 @@ function App() {
   let SelectedComponent: React.ComponentType = Home;
 
   switch (window.location.pathname) {
-    case "/":
+    case "/portfolio-website/":
       SelectedComponent = Home;
       break;
-    case "/Projects":
+    case "/portfolio-website/Projects":
       SelectedComponent = Projects;
       break;
-    case "/ProjectDetails1":
+    case "/portfolio-website/ProjectDetails1":
       SelectedComponent = ProjectDetails1;
       break;
-    case "/ProjectDetails2":
+    case "/portfolio-website/ProjectDetails2":
       SelectedComponent = ProjectDetails2;
       break;
-    case "/ProjectDetails3":
+    case "/portfolio-website/ProjectDetails3":
       SelectedComponent = ProjectDetails3;
       break;
-    case "/Qualifications":
+    case "/portfolio-website/Qualifications":
       SelectedComponent = Qualifications;
       break;
-    case "/More":
+    case "/portfolio-website/More":
       SelectedComponent = More;
       break;
   }

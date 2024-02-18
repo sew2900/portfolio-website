@@ -24,16 +24,16 @@ function Navbar() {
           </button>
           <div className="collapse navbar-collapse" id="navbarText">
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
-              <CustomLink href={"/Home"}>
+              <CustomLink href={"/portfolio-website/Home"}>
                 <span>home</span>
               </CustomLink>
-              <CustomLink href={"/Projects"}>
+              <CustomLink href={"/portfolio-website/Projects"}>
                 <span>projects</span>
               </CustomLink>
-              <CustomLink href={"/Qualifications"}>
+              <CustomLink href={"/portfolio-website/Qualifications"}>
                 <span>qualifications</span>
               </CustomLink>
-              <CustomLink href={"/More"}>
+              <CustomLink href={"/portfolio-website/More"}>
                 <span>more</span>
               </CustomLink>
             </ul>
