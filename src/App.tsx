@@ -1,13 +1,13 @@
 import "./App.css";
-import Navbar from "./components/Navbar";
-import Home from "./components/Home";
-import Projects from "./components/Projects";
-import ProjectDetails1 from "./components/ProjectDetails1";
-import ProjectDetails2 from "./components/ProjectDetails2";
-import ProjectDetails3 from "./components/ProjectDetails3";
-import Qualifications from "./components/Qualifications";
-import More from "./components/More";
-import Footer from "./components/Footer";
+import Navbar from "./Navbar";
+import Home from "./Home";
+import Projects from "./Projects";
+import ProjectDetails1 from "./ProjectDetails1";
+import ProjectDetails2 from "./ProjectDetails2";
+import ProjectDetails3 from "./ProjectDetails3";
+import Qualifications from "./Qualifications";
+import More from "./More";
+import Footer from "./Footer";
 
 function App() {
   let SelectedComponent: React.ComponentType = Home;
