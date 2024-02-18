@@ -20,6 +20,6 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true
   },
-  "include": ["src"],
+  "include": ["src", "src/components/Certification1.tsx", "src/components/Footer.tsx", "src/components/Home.tsx", "src/components/HomeCardGithub.tsx", "src/components/HomeCardMore.tsx", "src/components/HomeCardQualifications.tsx", "src/components/More.tsx", "src/components/Navbar.tsx", "src/components/Project1.tsx", "src/components/Project2.tsx", "src/components/Project3.tsx", "src/components/ProjectDetails1.tsx", "src/components/ProjectDetails2.tsx", "src/components/ProjectDetails3.tsx", "src/components/Projects.tsx", "src/components/ProjectsCard.tsx", "src/components/Qualifications.tsx", "src/components/WorkExp1.tsx", "src/components/WorkExp2.tsx"],
   "references": [{ "path": "./tsconfig.node.json" }]
 }
